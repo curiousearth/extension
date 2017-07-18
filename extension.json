@@ -1,14 +1,14 @@
 [
 	{
-		title: 'Coral Bleaching Claimed as Fake News',
-		centerText: 'Great barrier reef coral bleaching claimed as fake news by US-based journalist',
-		linkUrl: 'https://www.desmogblog.com/james-delingpole',
-		linkText: 'James Delingpole Blog'
+		"title": "Coral Bleaching Claimed as Fake News",
+		"centerText": "Great barrier reef coral bleaching claimed as fake news by US-based journalist",
+		"linkUrl": "https://www.desmogblog.com/james-delingpole",
+		"linkText": "James Delingpole Blog"
 	},
 	{
-		title: '11 Million Acres of Park Created in Chile',
-		centerText: 'National parland in Chile increased by an area larger than Denmark',
-		linkUrl: 'http://www.tompkinsconservation.org/news/2017/03/15/president-of-chile-tompkins-conservation-sign-historic-pledge-to-create-11-million-acres-of-new-national-parks/',
-		linkText: 'Tompkins Conservation'
+		"title": "11 Million Acres of Park Created in Chile",
+		"centerText": "National parland in Chile increased by an area larger than Denmark",
+		"linkUrl": "http://www.tompkinsconservation.org/news/2017/03/15/president-of-chile-tompkins-conservation-sign-historic-pledge-to-create-11-million-acres-of-new-national-parks/",
+		"linkText": "Tompkins Conservation"
 	}
 ]
