@@ -1,1 +1,16 @@
-
+[
+	{
+		title: 'Cat Missing',
+		centerText: 'A cat is missing.',
+		dateText: 'July 17th',
+		linkUrl: 'https://mynewsite.com/newshere',
+		linkText: 'Click here to learn more'
+	},
+	{
+		title: 'Cat located',
+		centerText: 'A cat was recently located after it had been missing for awhile.',
+		dateText: 'July 18th',
+		linkUrl: 'https://mynewsite.com/newshere',
+		linkText: 'Click here to learn more'
+	}
+]
