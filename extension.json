@@ -1,26 +1,38 @@
 [
 	{
 		"title": "Energy",
-		"centerText": "Electric cars may stall without a battery revolution",
-		"linkUrl": "https://www.theguardian.com/sustainable-business/2017/jul/19/electric-cars-battery-revolution-tesla-volvo",
-		"linkText": "The Guardian"
-	},
-	{
-		"title": "Pollution",
-		"centerText": "Air pollution is the tobacco of the 21st century, warn experts",
-		"linkUrl": "http://www.independent.co.uk/environment/air-pollution-tobacco-21-century-quality-breathing-health-problems-lungs-experts-ippr-a7846761.html",
-		"linkText": "Independent"
+		"centerText": "The world's first floating wind farm has been 'launched' off the north-east coast of Scotland",
+		"linkUrl": "http://www.bbc.co.uk/news/business-40699979",
+		"linkText": "BBC"
 	},
 	{
 		"title": "Food",
-		"centerText": "LA startups tackling climate change by suggesting we 'Grow Food on Mars'",
-		"linkUrl": "https://www.localrootsfarms.com/",
-		"linkText": "Local Roots"
+		"centerText": "Sales of the meat-substitute Quorn are booming due to the increase in 'Flexitarians'",
+		"linkUrl": "https://www.thetimes.co.uk/article/quorn-in-race-to-become-1bn-brand-wbp5x5ffh",
+		"linkText": "The Times"
+	},
+	{
+		"title": "Nature",
+		"centerText": "Vietnamese smallholders are heloing to end deforestation to produce sustainable acacia used in furniture",
+		"linkUrl": "https://www.theguardian.com/environment/2017/jul/24/vietnamese-smallholders-help-end-deforestation-photo-essay",
+		"linkText": "The Guardian"
+	},
+	{
+		"title": "Sustainability",
+		"centerText": "Plastic bag usage in England tumbles by 83% since 5p charge introduced in October 2015",
+		"linkUrl": "https://www.businessgreen.com/bg/news/3014313/plastic-bag-use-in-england-tumbles-since-5p-charge-brought-in",
+		"linkText": "Business Green"
+	},
+	{
+		"title": "Pollution",
+		"centerText": "Over 91% of plastic ISN'T recycled, with 8 million tons of plastic ending up in the ocean every year",
+		"linkUrl": "http://news.nationalgeographic.com/2017/07/plastic-produced-recycling-waste-ocean-trash-debris-environment/",
+		"linkText": "National Geographic"
 	},
 	{
 		"title": "Climate Change",
-		"centerText": "CO2 needs to be removed from the atmosphere to avoid climate change (Sequestration)",
-		"linkUrl": "https://www.earth-syst-dynam.net/8/577/2017/",
-		"linkText": "Earth System Dynamics"
+		"centerText": "The worlds most populated city, Shanghai, just had its hottest day in recorded history ever at a pretty toasty 40.9 Celcius",
+		"linkUrl": "https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/07/21/the-worlds-most-populated-city-shanghai-just-had-its-hottest-day-in-recorded-history",
+		"linkText": "Washington Post"
 	}
 ]
