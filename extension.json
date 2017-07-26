@@ -1,27 +1,27 @@
 [
 	{
-		"title": "Energy",
-		"centerText": "The world's first floating wind farm has been 'launched' off the north-east coast of Scotland",
-		"linkUrl": "http://www.bbc.co.uk/news/business-40699979",
-		"linkText": "BBC"
+		"title": "Transport",
+		"centerText": "The UK government has pledged to ban all new petrol and diesel cars by 2014. It is hoped this will improve air quality in Britain",
+		"linkUrl": "http://www.independent.co.uk/news/uk/home-news/uk-petrol-diesel-ban-cars-vehicles-britain-sales-fuels-fossil-government-a7860181.html",
+		"linkText": "Independent"
 	},
 	{
-		"title": "Food",
-		"centerText": "Sales of the meat-substitute Quorn are booming due to the increase in 'Flexitarians'",
-		"linkUrl": "https://www.thetimes.co.uk/article/quorn-in-race-to-become-1bn-brand-wbp5x5ffh",
-		"linkText": "The Times"
+		"title": "Pollution",
+		"centerText": "Paris's new canal pools have been reopened, after they were temporarily closed due to high levels of pollution in the water caused by surface run-off from the city.",
+		"linkUrl": "http://www.cntraveler.com/story/paris-new-canal-pools-were-temporarily-closed-because-of-pollution",
+		"linkText": "CN Traveler"
 	},
 	{
-		"title": "Nature",
-		"centerText": "Vietnamese smallholders are helping to end deforestation by grouping together and producing sustainable acacia, used in furniture",
-		"linkUrl": "https://www.theguardian.com/environment/2017/jul/24/vietnamese-smallholders-help-end-deforestation-photo-essay",
-		"linkText": "The Guardian"
+		"title": "Climate Change",
+		"centerText": "It is feared that the darkening of Greenland's ice sheets could trigger an accelerated rise in sea level, known as the albedo effect",
+		"linkUrl": "http://www.iflscience.com/environment/the-darkening-of-greenlands-ice-sheets-could-cause-greater-sea-level-rise/",
+		"linkText": "IFL Science"
 	},
 	{
 		"title": "Sustainability",
-		"centerText": "Plastic bag usage in England has tumbled by 83% since the 5p charge was introduced in October 2015.",
-		"linkUrl": "https://www.businessgreen.com/bg/news/3014313/plastic-bag-use-in-england-tumbles-since-5p-charge-brought-in",
-		"linkText": "Business Green"
+		"centerText": "A group of scientists from the University of Washington have theorised about spraying particles into marine clouds, to help cool the planet. Could this work?",
+		"linkUrl": "http://www.washington.edu/news/2017/07/25/could-spraying-particles-into-marine-clouds-help-cool-the-planet/",
+		"linkText": "University of Washington"
 	},
 	{
 		"title": "Pollution",
@@ -31,14 +31,14 @@
 	},
 	{
 		"title": "Climate Change",
-		"centerText": "Shanghai, the worlds most populated city, just had its hottest day in recorded history ever. It measured a pretty toasty 40.9 Celcius",
-		"linkUrl": "https://www.washingtonpost.com/news/capital-weather-gang/wp/2017/07/21/the-worlds-most-populated-city-shanghai-just-had-its-hottest-day-in-recorded-history",
-		"linkText": "Washington Post"
+		"centerText": "Climate scientists may have been underestimating global warming. Can they ever be 100% accurate?",
+		"linkUrl": "http://www.independent.co.uk/environment/climate-scientist-global-warming-underestimate-environment-study-dangerous-pre-industrial-a7857476.html",
+		"linkText": "Independent"
 	},
 	{
-		"title": "Pollution",
-		"centerText": "New in-car air study of commuting cars discovers rush hour pollution may be more dangerous to human health than you think",
-		"linkUrl": "https://www.eurekalert.org/pub_releases/2017-07/du-rhp072117.php",
-		"linkText": "EurekAlert"
+		"title": "Politics",
+		"centerText": "Does Trump ever stop? US Senators call for probe into claims that government scientists have been moved from jobs over climate change",
+		"linkUrl": "http://www.independent.co.uk/news/world/americas/us-politics/us-senators-climate-change-government-scientists-move-jobs-donald-trump-scott-pruitt-denier-fossil-a7858771.html",
+		"linkText": "Independent"
 	}
 ]
