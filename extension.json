@@ -1,44 +1,50 @@
 [
 	{
 		"title": "Transport",
-		"centerText": "Tesla unveils its first electric truck, to take on commercial haulage vehicles.",
-		"linkUrl": "http://www.bbc.co.uk/news/technology-42021713",
-		"linkText": "BBC"
+		"centerText": "Lack of chargers delays switch to electric cars",
+		"linkUrl": "https://www.thetimes.co.uk/article/lack-of-chargers-delays-switch-to-electriccars-2m8lxct5m",
+		"linkText": "Times"
 	},
 	{
 		"title": "Pollution",
-		"centerText": "Carbon tax thrusts the UK into the top 10 low-carbon electricity world rankings",
-		"linkUrl": "http://www.telegraph.co.uk/business/2017/11/15/carbon-tax-thrusts-britain-towards-top-low-carbon-energy-league/",
-		"linkText": "Telegraph"
+		"centerText": "Shell faces shareholder push on climate change goals",
+		"linkUrl": "https://www.ft.com/content/fae8e478-2eba-11e8-9b4b-bc4b9f08f381",
+		"linkText": "FT"
 	},
 	{
 		"title": "Climate Change",
-		"centerText": "Worlds biggest investment fund (currently worth about $1 trillion) considers ditching fossil fuels. ",
-		"linkUrl": "https://www.theguardian.com/business/2017/nov/16/oil-and-gas-shares-dip-as-norways-central-bank-advises-oslo-to-divest",
-		"linkText": "Guardian"
+		"centerText": "Earth Hour: Millions participate to raise climate change awareness",
+		"linkUrl": "https://www.independent.co.uk/environment/earth-hour-climate-change-global-warming-lights-off-wwf-a8272466.html",
+		"linkText": "Independent"
 	},
 	{
 		"title": "Sustainability",
-		"centerText": "NASA scientists have estimated that the equivalent of 85 billion tons of CO2 is stored in forests in Congo.",
-		"linkUrl": "https://phys.org/news/2017-11-nasa-survey-technique-congo-forest.html",
-		"linkText": "NASA"
+		"centerText": "STUDY: Wind and Solar can power between 90 - 100% of the United States",
+		"linkUrl": "https://www.theguardian.com/environment/climate-consensus-97-per-cent/2018/mar/26/study-wind-and-solar-can-power-most-of-the-united-states",
+		"linkText": "Guardian"
 	},
 	{
 		"title": "Pollution",
-		"centerText": "Dairy farming in New Zealand is polluting lakes and rivers, making up to 60% unswimmable.",
-		"linkUrl": "https://www.economist.com/news/asia/21731435-government-data-suggests-60-rivers-and-lakes-are-unswimmable-dairy-farming-polluting-new",
-		"linkText": "Economist"
+		"centerText": "China Urges northern cities to shut factories as smog builds",
+		"linkUrl": "https://uk.reuters.com/article/uk-china-pollution/china-urges-northern-cities-to-shut-factories-as-smog-builds-report-idUKKBN1H306R",
+		"linkText": "Reuters"
 	},
 	{
 		"title": "Climate Change",
-		"centerText": "Butterfly wing inspires photovoltaics: Light absorption can be enhanced by up to 200 percent",
-		"linkUrl": "https://sciencebulletin.org/archives/17595.html",
-		"linkText": "Science Bulletin"
+		"centerText": "Ultra-thin sun shield could protect Great Barrier Reef",
+		"linkUrl": "https://phys.org/news/2018-03-ultra-thin-sun-shield-great-barrier.html",
+		"linkText": "Phys.org"
 	},
 	{
 		"title": "Politics",
-		"centerText": "Donald Trump's climate advisor 'doesn't know what key 2-degrees climate target is'",
-		"linkUrl": "http://www.independent.co.uk/environment/donald-trump-climate-change-global-warming-george-david-banks-a8054891.html",
+		"centerText": "UK Government considering plastic bottle deposit scheme to increase recycling and reduce litter",
+		"linkUrl": "https://www.independent.co.uk/news/uk/politics/plastic-bottle-deposit-scheme-recycling-litter-government-environment-pollution-a8272301.html",
 		"linkText": "Independent"
+	},
+	{
+		"title": "Curious.Earth",
+		"centerText": "If you haven't read last weeks Curious.Earth newsletter, then head to your inbox, its a corker",
+		"linkUrl": "https://curious.earth",
+		"linkText": "Curious.Earth"
 	}
 ]
