@@ -24,6 +24,12 @@
 		"linkText": "Guardian"
 	},
 	{
+		"title": "Food & Drink",
+		"centerText": "Sustainable Beer is Tastier Beer",
+		"linkUrl": "https://www.curious.earth/blog/sustainablebeer",
+		"linkText": "Curious.Earth"
+	},
+	{
 		"title": "Pollution",
 		"centerText": "China urges northern cities to shut factories as smog builds",
 		"linkUrl": "https://uk.reuters.com/article/uk-china-pollution/china-urges-northern-cities-to-shut-factories-as-smog-builds-report-idUKKBN1H306R",
