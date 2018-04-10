@@ -1,39 +1,39 @@
 [
 	{
 		"title": "Transport",
-		"centerText": "Hydrogen-powered transport key to climate targets, say Shell",
-		"linkUrl": "https://www.theguardian.com/environment/2018/mar/26/hydrogen-powered-transport-key-to-climate-targets-says-shell",
+		"centerText": "Uber to buy electric bike-sharing firm, Jump",
+		"linkUrl": "https://techcrunch.com/2018/04/09/uber-acquires-bike-share-startup-jump/",
+		"linkText": "TechCrunch"
+	},
+	{
+		"title": "Pollution",
+		"centerText": "Smog forces South Korean pupils to practise virtual sports indoors",
+		"linkUrl": "https://www.telegraph.co.uk/news/2018/04/10/smog-forces-south-korean-pupils-practise-virtual-sports-indoors",
+		"linkText": "Telegraph"
+	},
+	{
+		"title": "Climate Change",
+		"centerText": "The Queen's Green Planet: Documentary. The Queen & David Attenborough discuss climate change",
+		"linkUrl": "https://www.businessgreen.com/bg/news/3029819/queens-green-planet-documentary-sees-queen-and-david-attenborough-discuss-climate-change",
+		"linkText": "Business Green"
+	},
+	{
+		"title": "Sustainability",
+		"centerText": "Apple is now completely powered by renewable energy, after huge green-push",
+		"linkUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/apple-renewable-energy-green-suppliers-uk-us-store-office-headquarters-park-campus-a8296751.html",
+		"linkText": "Independent"
+	},
+	{
+		"title": "Food & Drink",
+		"centerText": "Waitrose to remove all disposable coffee cups from shops this year",
+		"linkUrl": "https://www.theguardian.com/environment/2018/apr/10/waitrose-to-remove-all-disposable-coffee-cups-from-shops-this-year",
 		"linkText": "Guardian"
 	},
 	{
 		"title": "Pollution",
-		"centerText": "Chinas air pollution has increased by more than 50% since 2010, according to environment officials",
-		"linkUrl": "http://www.straitstimes.com/asia/east-asia/china-pollution-sources-up-by-more-than-half-since-2010-environment-official-says",
-		"linkText": "Reuters"
-	},
-	{
-		"title": "Climate Change",
-		"centerText": "Deep sea trenches are being eyed up for carbon dioxide storage",
-		"linkUrl": "https://www.ft.com/content/1a008448-de6f-11e7-a0d4-0944c5f49e46",
-		"linkText": "FT"
-	},
-	{
-		"title": "Sustainability",
-		"centerText": "World's biggest solar project comes with a 'batteries included' sticker",
-		"linkUrl": "https://www.bloomberg.com/news/articles/2018-03-29/batteries-included-even-the-huge-saudi-solar-farm-will-use-them",
-		"linkText": "Bloomberg"
-	},
-	{
-		"title": "Food & Drink",
-		"centerText": "Waitrose is transforming grass into egg boxes",
-		"linkUrl": "https://www.esmmagazine.com/waitrose-rye-grass-sustainable-packaging/57723",
-		"linkText": "ES Magazine"
-	},
-	{
-		"title": "Pollution",
-		"centerText": "Indian teen inventor, working on pollution filter to clear city skies",
-		"linkUrl": "https://edition.cnn.com/2018/03/28/health/angad-daryani-tomorrows-hero/index.html",
-		"linkText": "CNN"
+		"centerText": "Pollution to products: CO2 competition enters final round",
+		"linkUrl": "https://phys.org/news/2018-04-pollution-products-co2-competition.html",
+		"linkText": "Phys.org"
 	},
 	{
 		"title": "Climate Change",
@@ -42,15 +42,15 @@
 		"linkText": "University of California"
 	},
 	{
-		"title": "Politics",
-		"centerText": "Illegal charcoal trade is fueling war and harming the environment",
-		"linkUrl": "https://www.economist.com/news/middle-east-and-africa/21739782-stopping-dirty-business-not-easy-how-illegal-charcoal-fuels-war-and-harms",
-		"linkText": "Economist"
+		"title": "Food & Drink",
+		"centerText": "Blockchain start-up tackling global food waste",
+		"linkUrl": "https://www.curious.earth/blog/blockchain-food-waste",
+		"linkText": "Curious.earth"
 	},
 	{
-		"title": "Curious.Earth",
-		"centerText": "If you haven't read last weeks Curious.Earth newsletter, then head to your inbox or sign up, its a corker!",
-		"linkUrl": "https://curious.earth",
-		"linkText": "Curious.Earth"
+		"title": "Curious.earth",
+		"centerText": "If you haven't read last weeks Curious.Earth newsletter, check it out here!",
+		"linkUrl": "https://mailchi.mp/b1e146e8de0a/naughtea-bags-blockchain-solutions",
+		"linkText": "Curious.earth"
 	}
 ]
