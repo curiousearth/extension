@@ -1,56 +1,56 @@
 [
 	{
 		"title": "Transport",
-		"centerText": "Uber to buy electric bike-sharing firm, Jump",
-		"linkUrl": "https://techcrunch.com/2018/04/09/uber-acquires-bike-share-startup-jump/",
-		"linkText": "TechCrunch"
-	},
-	{
-		"title": "Pollution",
-		"centerText": "Smog forces South Korean pupils to practise virtual sports indoors",
-		"linkUrl": "https://www.telegraph.co.uk/news/2018/04/10/smog-forces-south-korean-pupils-practise-virtual-sports-indoors",
-		"linkText": "Telegraph"
-	},
-	{
-		"title": "Climate Change",
-		"centerText": "The Queen's Green Planet: Documentary. The Queen & David Attenborough discuss climate change",
-		"linkUrl": "https://www.businessgreen.com/bg/news/3029819/queens-green-planet-documentary-sees-queen-and-david-attenborough-discuss-climate-change",
-		"linkText": "Business Green"
-	},
-	{
-		"title": "Sustainability",
-		"centerText": "Apple is now completely powered by renewable energy, after huge green-push",
-		"linkUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/apple-renewable-energy-green-suppliers-uk-us-store-office-headquarters-park-campus-a8296751.html",
-		"linkText": "Independent"
-	},
-	{
-		"title": "Food & Drink",
-		"centerText": "Waitrose to remove all disposable coffee cups from shops this year",
-		"linkUrl": "https://www.theguardian.com/environment/2018/apr/10/waitrose-to-remove-all-disposable-coffee-cups-from-shops-this-year",
-		"linkText": "Guardian"
-	},
-	{
-		"title": "Pollution",
-		"centerText": "Pollution to products: CO2 competition enters final round",
-		"linkUrl": "https://phys.org/news/2018-04-pollution-products-co2-competition.html",
-		"linkText": "Phys.org"
-	},
-	{
-		"title": "Climate Change",
-		"centerText": "STUDY: What could a 3 foot rise in sealevels mean for worlds turtles",
-		"linkUrl": "https://www.ucdavis.edu/news/what-3-feet-seawater-could-mean-worlds-turtles/",
-		"linkText": "University of California"
-	},
-	{
-		"title": "Food & Drink",
-		"centerText": "Blockchain start-up tackling global food waste",
-		"linkUrl": "https://www.curious.earth/blog/blockchain-food-waste",
+		"centerText": "Uber’s arch-rival (Lyft) rolls out electric car fleet",
+		"linkUrl": "https://www.curious.earth/blog/uber-rival-lyft-launches-green-mode",
 		"linkText": "Curious.earth"
 	},
 	{
+		"title": "Pollution",
+		"centerText": "One town in Malaysia smothered by 17,000 tonnes of rubbish",
+		"linkUrl": "https://www.bbc.co.uk/news/world-asia-46518747",
+		"linkText": "BBC"
+	},
+	{
+		"title": "Climate Change",
+		"centerText": "Sky and National Geographic launch Ocean Plastic Innovation Challenge",
+		"linkUrl": "https://www.edie.net/news/8/Sky-and-National-Geographic-launch-Ocean-Plastic-Innovation-Challenge/",
+		"linkText": "edie"
+	},
+	{
+		"title": "Sustainability",
+		"centerText": "50% of Amazon deliveries set to be carbon neutral by 2030",
+		"linkUrl": "https://www.treehugger.com/corporate-responsibility/amazon-wants-50-deliveries-be-net-zero-carbon-2030.html",
+		"linkText": "Treehugger"
+	},
+	{
+		"title": "Food & Drink",
+		"centerText": "#LongLiveTheLunchbox, Global Action Plan Youth Panel launches zero waste initiative",
+		"linkUrl": "https://www.curious.earth/blog/long-live-the-lunchbox-global-action-plan",
+		"linkText": "Curious.earth"
+	},
+	{
+		"title": "Pollution",
+		"centerText": "Huge restoration of world’s forests would cancel out a decade of CO2 emissions",
+		"linkUrl": "https://www.independent.co.uk/environment/forests-climate-change-co2-greenhouse-gases-trillion-trees-global-warming-a8782071.html",
+		"linkText": "Independent"
+	},
+	{
+		"title": "Climate Change",
+		"centerText": "Teachers to join climate protests to demand curriculum reform",
+		"linkUrl": "https://www.theguardian.com/environment/2019/feb/21/teachers-to-join-climate-protests-to-demand-curriculum-reform",
+		"linkText": "Guardian"
+	},
+	{
+		"title": "Clothes & Fashion",
+		"centerText": "How to make clothes last longer and save the planet",
+		"linkUrl": "https://www.bbc.co.uk/news/newsbeat-47292087",
+		"linkText": "BBC"
+	},
+	{
 		"title": "Curious.earth",
-		"centerText": "If you haven't read last weeks Curious.Earth newsletter, check it out here!",
-		"linkUrl": "https://mailchi.mp/b1e146e8de0a/naughtea-bags-blockchain-solutions",
+		"centerText": "If you haven't read this weeks Curious.earth newsletter, check it out here!",
+		"linkUrl": "https://mailchi.mp/117bdcbcffe7/a-big-thank-you",
 		"linkText": "Curious.earth"
 	}
 ]
